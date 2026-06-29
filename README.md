@@ -32,9 +32,8 @@ and derived measures.
                      ▼
               ARD_Out_01.R
               (source → ARD dataframe)
-
-Developed based on CDISC's analysis-result-standard repo: https://github.com/cdisc-org/analysis-results-standard.
 ```
+Developed based on CDISC's analysis-result-standard repo: https://github.com/cdisc-org/analysis-results-standard.
 
 ## Prerequisites
 
