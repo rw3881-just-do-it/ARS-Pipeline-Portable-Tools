@@ -1,5 +1,5 @@
 # ARS Pipeline Portable Tool — Quick Start
-# ==========================================
+
 
 ## What this is
 
