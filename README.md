@@ -33,7 +33,7 @@ and derived measures.
               ARD_Out_01.R
               (source → ARD dataframe)
 ```
-Developed based on CDISC's analysis-result-standard repo: https://github.com/cdisc-org/analysis-results-standard.
+This tool, with the help of Claude Code, is developed based on CDISC's analysis-result-standard repo: https://github.com/cdisc-org/analysis-results-standard.
 
 ## Prerequisites
 
@@ -50,7 +50,7 @@ You need to convert your dataset into .CSV format first.
 install.packages(c("siera", "cards", "cardx", "dplyr", "readr", "tidyr", "broom", "parameters"))
 ```
 
-## Quick Start — Workflow A (Excel-based, CDISC standard)
+## Quick Start — Workflow A (Based on CDISC's ARS excel workflow)
 
 ### 1. Fill in the Excel template
 
